@@ -6,6 +6,8 @@ The 2D heat equation describes the diffusion of heat in a 2D domain over time an
 
 - ∂u/∂t = α(∂²u/∂x² + ∂²u/∂y²)
 
+![Figure_1](https://github.com/Deivison-Costa/Heat-Equation-Solver/assets/112001225/5da8be19-a49c-4f11-8581-a4b13ae1e651)
+
 # Installation and Setup
 - Clone the repository or download the source code.
 - Make sure you have Python installed on your system (Python 3.6 or higher is recommended).
